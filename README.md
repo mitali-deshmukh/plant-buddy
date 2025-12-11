@@ -3,7 +3,6 @@
 PlantBuddy is an Internet-of-Things (IoT) project that monitors the health of an indoor plant and helps you water it at the right time.  
 It continuously measures **soil moisture**, **temperature**, and **humidity** using sensors connected to an ESP32 board, sends data to the **Blynk Cloud**, and lets you trigger a water pump from the **Blynk mobile/web dashboard** when the plant is dry.
 
----
 
 ## Project Motivation
 
@@ -11,7 +10,7 @@ Indoor plants improve air quality and reduce stress, but most people rely on gue
 Soil moisture depends on temperature, humidity, and soil type; this often leads to **over-watering** (root rot) or **under-watering** (stress and slow growth).  
 PlantBuddy turns this into a **data-driven** process by sensing the environment, logging it in the cloud, and providing clear, actionable feedback through an app dashboard. :contentReference[oaicite:1]{index=1}
 
----
+
 
 ## Features
 
@@ -22,7 +21,6 @@ PlantBuddy turns this into a **data-driven** process by sensing the environment,
 - **History charts** and widgets for trends and long-term plant health tracking.
 - **Modular design**: sensors, relay, and pump are logically separated for easy upgrades. 
 
----
 
 ## System Architecture
 
