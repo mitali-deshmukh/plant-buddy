@@ -1,7 +1,7 @@
 # PlantBuddy – Smart Plant Watering System 🌱💧
 
 PlantBuddy is an Internet-of-Things (IoT) project that monitors the health of an indoor plant and helps you water it at the right time.  
-It continuously measures **soil moisture**, **temperature**, and **humidity** using sensors connected to an ESP32 board, sends data to the **Blynk Cloud**, and lets you trigger a water pump from the **Blynk mobile/web dashboard** when the plant is dry. :contentReference[oaicite:0]{index=0}
+It continuously measures **soil moisture**, **temperature**, and **humidity** using sensors connected to an ESP32 board, sends data to the **Blynk Cloud**, and lets you trigger a water pump from the **Blynk mobile/web dashboard** when the plant is dry.
 
 ---
 
